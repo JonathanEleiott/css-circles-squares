@@ -1,0 +1,50 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: orange;
+  background-color: black;
+}
+
+div {
+  background-color: green;
+  margin: 10px;
+  border:5px dashed aqua;
+  padding: 7px;
+  color: white;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+#squares {
+  background-color: green;
+}
+
+#circles-container {
+  background-color: rgb(255, 0, 85);
+}
+
+section {
+  background-color: dodgerblue;
+}
+
+.small {
+  width: 25px;
+  height: 25px;
+}
+
+.large {
+  width: 75px;
+  height: 75px;
+}
+
+#middle-circle {
+  background-color: cornsilk;
+}
+
+p {
+  margin-top: 100px;
+}
